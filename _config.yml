@@ -1,0 +1,19 @@
+title: Cayman theme
+description: Cayman is a clean, responsive theme for GitHub Pages.
+show_downloads: true
+theme: jekyll-theme-cayman
+
+conference_name: "Fairness in Information Retrieval from an Economic Perspective"
+# conference_www: "on the Web Conference 2024 (WWW'24)"
+# conference_www: "Collection of Tutorials on Large Language Models for Recommendation"
+# conference_venue: "Singapore, Monday 13 - Friday 17 May 2024"
+# conference_venue: "Barcelona, Spain | LS-5 | 10:00 AM – 1:00 PM, Sunday, August 25"
+conference_location: "Tutorial @ SIGIR 2025"
+# conference_intro: "Will be held in 2024"
+conference_intro: ""
+
+collections:
+  organizers:
+    output: true
+  speakers:
+    output: true
